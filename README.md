@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Core initiative<br>🌱 I’m currently learning something new<br>💬 Ask me about anything with my email
+🔭 I’m currently working on Core initiative<br>🌱 I’m currently learning something new<br>💬 Ask me about anything via my email
 
 
 ## 🌐 Socials:
