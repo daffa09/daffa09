@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently collage on Pancasila University<br>🌱 I’m currently learning something new<br>💬 Ask me about anything via my email
+🔭 I’m currently collage on Pancasila University<br>🏢 Now i work at Core Initiative<br>🌱 I’m currently learning something new<br>💬 Ask me about anything via my email
 
 
 ## 🌐 Socials:
