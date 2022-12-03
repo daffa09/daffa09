@@ -1,4 +1,9 @@
-# 💫 About Me:
+<p align="left">
+  <a href="https://github.com/daffa09"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=20&width=435&lines=Hello...;I'm+Daffa+Fathan" alt="Typing SVG" /></a>
+</p>
+
+
+### <h2> <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40px" height="40px"></img> About Me </h2>
 🏫 I’m currently collage on Pancasila University<br>🏢 Now i work at Core Initiative as Junior Software Engineer<br>🌱 I’m currently learning something new<br>💬 Ask me about anything via my email
 
 
@@ -11,6 +16,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=daffa09&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=daffa09&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=daffa09&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=daffa09&icon=5&color=0)](https://visitcount.itsvg.in)
