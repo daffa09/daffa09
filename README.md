@@ -4,7 +4,7 @@
 
 
 ### <h2> <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40px" height="40px"></img> About Me </h2>
-🏫 I'm currently studying at Pancasila University<br>🏢 Now i work at Core Initiative as Junior Software Engineer<br>🌱 I’m currently learning something new in this technology behavior<br>💬 Ask me about anything via my email or DM me in Instagram<br>⚡ Fun fact : I have someone special
+🏫 I'm currently studying at Pancasila University<br>🏢 Now i work at Core Initiative as Junior Software Engineer<br>🌱 I’m currently learning something new in this technology behavior<br>💬 Ask me about anything via my email or DM me in Instagram<br>⚡ Fun fact : I didn't need fun fact..
 
 
 ## 🌐 Socials:
