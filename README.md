@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Daffa Fathan <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40px" height="40px"></img></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img
+  <a><img
       src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=50&center=true&vCenter=true&width=800&height=100&lines=Software+Engineer+;Computer+Science+Student"></a>
 </p>
 
@@ -155,8 +155,8 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/piyushsuthar/github-readme-quotes"><img alt="Quote"
-      src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quote=Selama%20%itu%20%nikmat,%20%saya%20%tidak%20%perduli&author=Daffa">
+  <a><img alt="Quote"
+      src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quote=Now%20you%20are%20alone,%20but%20you%20will%20not%20be%20lonely%20because%20a%20part%20of%20me%20is%20with%20you&author=Elaina">
 </p>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width=50px>
