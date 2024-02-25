@@ -93,6 +93,7 @@
     <img alt="Node.js" src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white">
     <img alt="PrimeVue" src="https://img.shields.io/badge/PrimeVue-%23002D72.svg?style=for-the-badge&logo=primevue&logoColor=white">
     <img alt="WordPress" src="https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white">
+    <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%231572B6.svg?style=for-the-badge&logo=flutter&logoColor=white">
 </p>
 
 <br>
