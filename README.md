@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Daffa Fathan <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40px" height="40px"></img></h1>
 <p align="center">
   <a><img
-      src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=50&center=true&vCenter=true&width=800&height=100&lines=Software+Engineer+;Computer+Science+Student"></a>
+      src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=50&center=true&vCenter=true&width=800&height=100&lines=Software+Engineer+;Informatic+Engineering+Student"></a>
 </p>
 
 <br>
